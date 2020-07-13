@@ -1,0 +1,103 @@
+    .fa{font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        cursor: pointer;}
+
+    h1{background-color: #385898;
+        padding: 18px 16px;
+        padding-top: -10px;
+        margin: -8px -8px;
+        min-width: min-content;
+        min-height: fit-content;}
+
+    .one{text-decoration: none;
+        color: white;
+    margin-left: 130px;}
+
+    .login {position: fixed;
+        top: 15px;
+        font-size: 12px;
+        right: 8%;}
+
+    .inp{background-color: #3859C5;
+        color: white;
+        border: #385858 1px solid;
+        cursor: pointer;}
+
+    .inp:hover{background-color: #385898;
+        box-shadow: darkgray;}
+
+
+    .Forgotten_acc{font-family: sans-serif;
+        color: #c7c7e4;}
+
+    .Forgotten_acc:hover{text-decoration: underline;} 
+    
+    .tagline{color: #0e385f;
+        font-size: 20px;
+        font-weight: bold;
+        line-height: 29px;
+        margin-top: 40px;
+        width: 450px;
+        word-spacing: -1px;
+        margin-left: 20px;    }
+
+    .ep{color: white;
+        font-family: sans-serif;}
+
+    .inputlogin_form{border: 1px solid black;}
+
+    .page{font-style: inherit;
+        font-family: monospace;
+        margin-left: 120px;}
+
+    body{background-color: whitesmoke;}
+
+    .Create{color: #000;
+        font-size: 33px;}
+
+    .quick{color: #000;}
+
+    .signup{padding-left: 60%;
+        position: absolute;
+        top: 20%;
+        font-style: inherit;
+        font-family: sans-serif;
+        line-height: 37px}
+
+    .name{font-size: 17px;
+        color: rgb(0, 0, 0);
+        height: 28px;}    
+        
+    .form_two{line-height: 44px;}
+
+    .birth{font-size:18px ;
+        font-family: sans-serif;
+        color: lightslategray;}
+    
+    .birth_day{height: 30px;}
+
+    .gender{font-size: large;}
+
+    ._58mv {
+        color: #777;
+        font-size: 9px;
+        line-height: normal;
+        width: 316px;}
+
+    .terms{color: #3859C5;
+        text-decoration: none;}    
+
+    .pass{color: silver;
+        text-decoration: none;}
+
+    .submit{width: 200px;
+        height: 30px;
+    background-color: #559e55;
+    border:green 1px solid;
+    font-size: 19px;
+    color: white;
+    border-radius: 5px;
+    font-family: sans-serif;
+}
+.submit:hover{cursor: pointer;
+background-color: rgb(9, 126, 9);}
